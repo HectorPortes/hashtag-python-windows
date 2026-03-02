@@ -1,0 +1,1 @@
+Preciso colocar os gitgnores para ignorar o arquivos que não podem ser armazenados no github
